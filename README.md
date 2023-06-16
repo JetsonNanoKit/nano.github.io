@@ -1,2 +1,2 @@
-# nano.github.io
-Have fun with JetsonNanoKit 😊😊😊
+# Resume
+Here is my resume
